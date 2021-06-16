@@ -1,0 +1,15 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+
+button{
+    width: 50%;
+    border-radius: 70%;
+    margin: 50px;
+}
+
+button:hover{
+    background-color:cyan;
+}
